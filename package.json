@@ -1,0 +1,35 @@
+{
+  "name": "npm-isavailable",
+  "version": "1.0.0",
+  "description": "A node package to check if the name of package is available or not",
+  "main": "./dist/js/is-available.js",
+  "homepage": "https://github.com/samcrosoft/npm-is-available",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samcrosoft/npm-is-available"
+  },
+  "keywords": [
+    "npm",
+    "is-taken",
+    "is-available",
+    "package name"
+  ],
+  "author": "Samuel Olowofela",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-header": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "minimist": "^1.2.0"
+  },
+  "dependencies": {
+    "promise": "^7.1.1",
+    "registry-url": "^3.0.3",
+    "request-promise": "^2.0.0"
+  }
+}

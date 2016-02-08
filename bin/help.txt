@@ -1,0 +1,9 @@
+Usage
+	  $ npm-isavailable name_of_package
+	  $ npm-isavailable -h
+	  $ npm-isavailable -help
+	Examples
+	  $ npm-isavailable promise
+	  $ Package Name Is Taken!
+	  $ npm-name dancenigerianboy
+	  $ Package Name Is Availble!
