@@ -1,5 +1,5 @@
 {
-  "name": "npm-isavailable",
+  "name": "npm-is-available",
   "version": "1.0.0",
   "description": "A node package to check if the name of package is available or not",
   "main": "./dist/js/is-available.js",
